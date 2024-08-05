@@ -14,7 +14,7 @@ Welcome to the Task Manager Chrome Extension! This extension transforms your Chr
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/task-manager-extension.git
+    git clone https://github.com/AkashKobal/task-manager-chrome-extensoin.git
     ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable 'Developer mode' at the top right.
@@ -30,8 +30,6 @@ Welcome to the Task Manager Chrome Extension! This extension transforms your Chr
 ## Screenshots
 
 ![Task Manager Interface](screenshots/interface.png)
-![Adding a Task](screenshots/add-task.png)
-![Task Timer](screenshots/task-timer.png)
 
 ## Contributing
 
@@ -39,13 +37,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-- Akash Kobal
-
-## Acknowledgments
-
-- Thanks to all the contributors and users who have helped improve this extension.
 
