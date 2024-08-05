@@ -29,7 +29,9 @@ Welcome to the Task Manager Chrome Extension! This extension transforms your Chr
 
 ## Screenshots
 
-![Task Manager Interface](screenshots/interface.png)
+![Task Manager Interface](https://github.com/AkashKobal/task-manager-chrome-extensoin/blob/main/Screenshot%202024-08-05%20230357.png)
+![Task Manager Interface](#)
+
 
 ## Contributing
 
